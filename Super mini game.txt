@@ -1,0 +1,4 @@
+public class JavaGames {
+    public static void main(String[] args) {
+        System.out.println("Welcome to the Java Games!");
+        // Add your Java game scripts here
